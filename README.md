@@ -8,10 +8,29 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" alt="html" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/114830650/220180807-1dbb05e5-f805-4793-bae4-a460da9f5e88.png" alt="javascript" width="40" height="40"/> </a></p>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</a>
+<a href="https://html.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" alt="html" width="49" height="49"/>
+</a> 
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
+</a>
 
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khaledkammoun&show_icons=true&locale=en" alt="khaledkammoun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkammoun&" alt="khaledkammoun" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledkammoun&show_icons=true&locale=en" alt="khaledkammoun" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkammoun&" alt="khaledkammoun" align="center" />
+</div>
