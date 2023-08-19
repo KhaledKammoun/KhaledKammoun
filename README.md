@@ -5,6 +5,7 @@
   <p>
     <a href="https://codeforces.com/profile/khaledkammoun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khaledkammoun" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/khaledkammoun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaledkammoun" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/hearsers" targer="blank"><img src="https://cloud.githubusercontent.com/assets/9058451/14878330/6c979f12-0d55-11e6-9a07-6bb4f202c328.png" alt="khaledkammoun" height="36" width="35" /></a>
   </p>
   <h3><strong>Languages and Tools:</strong></h3>
   <p>
