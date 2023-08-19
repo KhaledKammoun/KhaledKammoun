@@ -3,9 +3,9 @@
   <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
   <h3><strong>Connect on:</strong></h3>
   <p>
-    <a href="https://codeforces.com/profile/khaledkammoun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khaledkammoun" height="30" width="40" target="_blank"/></a>
+    <a href="https://codeforces.com/profile/khaledkammoun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khaledkammoun" height="30" width="40"/></a>
     <a href="https://www.leetcode.com/khaledkammoun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaledkammoun" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/hearsers" targer="blank"><img src="https://cloud.githubusercontent.com/assets/9058451/14878330/6c979f12-0d55-11e6-9a07-6bb4f202c328.png" alt="khaledkammoun" height="36" width="35" target="_blank"/></a>
+    <a href="https://www.hackerrank.com/hearsers" targer="_blank"><img src="https://cloud.githubusercontent.com/assets/9058451/14878330/6c979f12-0d55-11e6-9a07-6bb4f202c328.png" alt="khaledkammoun" height="36" width="35"/></a>
   </p>
   <h3><strong>Languages and Tools:</strong></h3>
   <p>
