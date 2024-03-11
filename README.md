@@ -18,6 +18,8 @@
         <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" alt="html" width="49" height="49"/></a> 
         <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/></a>
+        <br />
+        <a><img src="https://p1.hiclipart.com/preview/885/530/469/js-icon-logo-icon-react-icon-react-js-icon-turquoise-teal-aqua-symbol-circle-png-clipart.jpg" alt="react" width="40" height="40"/></a>
       </p>
     </div>
     <div>
