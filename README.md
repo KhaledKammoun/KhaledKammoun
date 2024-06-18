@@ -7,7 +7,9 @@
         <a href="https://codeforces.com/profile/khaledkammoun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khaledkammoun" height="30" width="40"/></a>
         <a href="https://www.leetcode.com/khaledkammoun" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaledkammoun" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/hearsers" target="_blank"><img src="https://cloud.githubusercontent.com/assets/9058451/14878330/6c979f12-0d55-11e6-9a07-6bb4f202c328.png" alt="khaledkammoun" height="36" width="35"/></a>
+        <a href="https://www.linkedin.com/in/khaled-kammoun-6b1059308/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="khaledkammoun" height="36" width="35"/></a>
       </p>
+      <h3>Download my CV here: <a href="https://github.com/user-attachments/files/15891705/Khaled_Kammoun_CV.pdf">Download CV</a></h3>
       <h3><strong>Languages and Tools:</strong></h3>
       <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
