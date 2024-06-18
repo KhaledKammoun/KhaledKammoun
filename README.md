@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Kammoun</h1>
 <div>
-  <div>https://github.com/KhaledKammoun/KhaledKammoun/blob/main/README.md
+  <div>
     <div>
       <h3><strong>Connect on:</strong></h3>
       <p>
