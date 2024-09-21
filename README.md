@@ -23,7 +23,7 @@ I'm always exploring the latest tools and trends in the tech world, and my proje
 - Improving my algorithmic skills by participating in competitive coding on platforms like **LeetCode** and **Codeforces**.
 
 ## 📂 Featured Projects:
-### 📘 [Lung Cancer Detector](https://github.com/KhaledKammoun/lung-cancer-detector)
+### 📘 [Lung Cancer Detector](https://github.com/KhaledKammoun/Lung-Cancer-Detect)
 - **Tech Stack**: Python, Flask, React, Tailwind CSS
 - A web app that detects lung cancer using medical image processing and deep learning.
 
