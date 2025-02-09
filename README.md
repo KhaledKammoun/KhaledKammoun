@@ -41,4 +41,5 @@ I'm always exploring the latest tools and trends in the tech world, and my proje
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,flask,ts,js,html,css,react,nextjs,express,postgres,mysql,java,vercel,git&perline=4)](https://skillicons.dev)
 
 ## 🤔 More Info? Download My CV Here:
-📄 [Download CV](https://github.com/user-attachments/files/15892601/Khaled_Kammoun_CV.pdf)
+📄 [Download CV](https://github.com/user-attachments/files/18724066/CV-KhaledKammoun.pdf)
+
